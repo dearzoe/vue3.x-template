@@ -1,4 +1,5 @@
 # ant-theme-object
+### vue2.6（之后会更新到3.x）+ webpack4.x 
 
 ## Project setup
 ```
